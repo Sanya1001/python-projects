@@ -16,7 +16,5 @@ python qr-generator.py google.com
 ``` 
 Will create QR for Google.
 
-If commandline argument is not provided, default to sanya1001.github.io
-
-# Update 2
+If commandline argument is not provided, default to sanya1001.github.io  
 Dependencies can be installed with requirements.txt
