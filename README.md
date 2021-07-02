@@ -22,3 +22,6 @@ Dependencies can be installed with requirements.txt
 ## Phone camera as your WebCam
 Use your phone camera as your webcam.
 You need IP WebCam to get an IP (possibly IP cam driver for OS too)
+
+## Audio extractor from Youtube videos
+Extract audio from a YouTube video in .mp3 format
