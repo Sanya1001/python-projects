@@ -1,5 +1,6 @@
 # Projects in Python
-This repository is meant to be a collection of small python projects that can be useful as components of larger projects
+This repository is meant to be a collection of small python projects that can be useful as components of larger projects     
+Please find all dependencies in dependencies.md (being updated)
 
 ## QR generator
 Generates a QR Code for any url
