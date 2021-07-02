@@ -25,3 +25,9 @@ You need IP WebCam to get an IP (possibly IP cam driver for OS too)
 
 ## Audio extractor from Youtube videos
 Extract audio from a YouTube video in .mp3 format
+
+## Text to handwriting convertor
+Convert a text to handwriting
+
+## BarCode reader
+Read a barcode using your webcam
