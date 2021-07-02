@@ -2,7 +2,7 @@ def phone_cam():
     import cv2
     import numpy as np
 
-    url = 'http://192.168.1.4:8080/video'
+    url = 'http://<your ip>/video'
     cap = cv2.VideoCapture(url)
 
     while True:
