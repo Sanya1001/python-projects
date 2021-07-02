@@ -4,7 +4,7 @@ This repository is meant to be a collection of small python projects that can be
 ## QR generator
 Generates a QR Code for any url
 
-# Update 1
+### Update (thanks to @AdityaMitra5102)
 Command line arguments added. Link no more fixed to sanya1001.github.io <br>
 Usage:
 ```
