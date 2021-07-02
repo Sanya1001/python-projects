@@ -18,3 +18,7 @@ Will create QR for Google.
 
 If commandline argument is not provided, default to sanya1001.github.io  
 Dependencies can be installed with requirements.txt
+
+## Phone camera as your WebCam
+Use your phone camera as your webcam.
+You need IP WebCam to get an IP (possibly IP cam driver for OS too)
