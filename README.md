@@ -32,3 +32,9 @@ Convert a text to handwriting
 
 ## BarCode reader
 Read a barcode using your webcam
+
+## TTS
+Text to Speech conversion
+
+## Email sender
+Send emails from your python program. Modify to automate emails to multiple people
