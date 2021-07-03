@@ -17,8 +17,7 @@ python qr-generator.py google.com
 ``` 
 Will create QR for Google.
 
-If commandline argument is not provided, default to sanya1001.github.io  
-Dependencies can be installed with requirements.txt
+If commandline argument is not provided, default to sanya1001.github.io   
 
 ## Phone camera as your WebCam
 Use your phone camera as your webcam.
