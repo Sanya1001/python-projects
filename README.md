@@ -37,3 +37,7 @@ Text to Speech conversion
 
 ## Email sender
 Send emails from your python program. Modify to automate emails to multiple people
+
+## Pencil sketch generator
+Generate a pencil sketch image of a picture
+Note: cv2.imshow is commented out. Uncomment and use it to view the progress of your image     
